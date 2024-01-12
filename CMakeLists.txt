@@ -18,5 +18,11 @@ add_executable(untitled2 main.cpp
         ../headers/Medicament.h
         ../src/Pacient.cpp
         ../headers/Pacient.h
-        headers/Entitate.h
+        ../headers/Entitate.h
+        ../src/factory.cpp
+        ../headers/factory.h
+        ../headers/afisare_detalii.h
+        ../src/factory.cpp
+        ../src/factory.cpp
+        src/afisare_detalii.cpp
 )
